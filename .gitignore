@@ -1,0 +1,16 @@
+/.metadata/
+/RemoteSystemsTempFiles/
+.settings
+.classpath
+.project
+.idea
+idea
+*.xsdbk
+*).iml
+*.iml
+*~
+*.swp
+dump.txt
+*.log
+modules/*/bin/
+.metadata
