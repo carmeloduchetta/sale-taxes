@@ -1,2 +1,2 @@
-cd git_repo/
+cd sale-taxes/
 mvn clean install
