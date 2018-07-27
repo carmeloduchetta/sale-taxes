@@ -38,9 +38,9 @@ Assumption:
 Example how to run program with multiple inputs from files.
 
 	1) Install Java 8 in your PC
-        3) Download sale-taxes-1.0.0-SNAPSHOT.jar from 
-	2) Copy sale-taxes-1.0.0-SNAPSHOT.jar in your local directory that contains multiple input files (ex INPUT_1.txt INPUT_2.txt ....)
-	3) Execute the follow command java -jar salestax.jar INPUT_1.txt INPUT_2.txt INPUT_3.txt
+        2) Download sale-taxes-1.0.0-SNAPSHOT.jar from 
+	3) Copy sale-taxes-1.0.0-SNAPSHOT.jar in your local directory that contains multiple input files (ex INPUT_1.txt INPUT_2.txt ....)
+	4) Execute the follow command java -jar salestax.jar INPUT_1.txt INPUT_2.txt INPUT_3.txt
 
 INPUT 1:
 1 book at 12.49
